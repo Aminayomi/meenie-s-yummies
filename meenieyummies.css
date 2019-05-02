@@ -1,0 +1,33 @@
+#banner {
+    margin-bottom: 10px;
+}
+#card-image {
+    max-height: 10em
+  }
+  #main-navbar {
+    font-size: 1rem;
+    font-weight: 100;
+   background-color: rgb(180, 168, 151);
+}
+ #main-navbar .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 100;
+    color: darkolivegreen;
+}
+#main-navbar .nav-link{
+    color: black;
+}
+#main-navbar .nav-link:hover {
+    color: #EA1C2C;
+}
+#moving-image {
+    max-height: 25em
+  }
+.navbar-brand {
+      color: firebrick
+  }
+#yummies-tray {
+    color: grey;
+    font-weight: 100;
+  }
+
